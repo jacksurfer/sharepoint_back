@@ -1,0 +1,3 @@
+<AppPermissionRequests AllowAppOnlyPolicy="true">
+  <AppPermissionRequest Scope="http://sharepoint/content/tenant" Right="FullControl" />
+</AppPermissionRequests>

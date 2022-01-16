@@ -1,0 +1,12 @@
+POST http://localhost:8000/
+Content-Type: application/json
+
+{
+    "email": "test@test.com",
+    "equip_type": "Ноутбук",
+    "equip": "Macbook Air",
+    "count": 1,
+    "wayToShip": "Доставка"
+}
+
+###
